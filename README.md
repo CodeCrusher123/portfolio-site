@@ -10,7 +10,7 @@ This is a clean, responsive portfolio site built using TypeScript, Vite and CSS.
 
 
 **Live Demo**  
-[Add deployment link here]
+https://portfolio-site-pi-two-23.vercel.app/
 
 ## Features
 - Responsive layouts for desktop, tablet, and mobile
