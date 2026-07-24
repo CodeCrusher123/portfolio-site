@@ -139,6 +139,7 @@ nav a:hover{
   margin-inline: auto;
   gap: clamp(2rem, 5vw, 5rem);
   padding: clamp(1.5rem, 4vw, 4rem);
+  justify-content: center;
   min-height: 80vh;
 }
 .my-intro{
@@ -356,9 +357,9 @@ nav a:hover{
   max-width: 850px;
   margin-inline: auto;
   margin-top: 2rem;
-  padding: clamp(1.5rem, 4vw, 3rem);
+  padding: clamp(1rem, 4vw, 3rem);
   border-radius: 20px;
-  line-height: 1.9;
+  line-height: 1.6;
   text-align: justify;
 }
 .site-footer {
